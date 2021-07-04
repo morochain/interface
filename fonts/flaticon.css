@@ -1,0 +1,50 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("./flaticon.ttf?194129acb634baee12994b3f824d4ba8") format("truetype"),
+url("./flaticon.woff?194129acb634baee12994b3f824d4ba8") format("woff"),
+url("./flaticon.woff2?194129acb634baee12994b3f824d4ba8") format("woff2"),
+url("./flaticon.eot?194129acb634baee12994b3f824d4ba8#iefix") format("embedded-opentype"),
+url("./flaticon.svg?194129acb634baee12994b3f824d4ba8#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-exchange:before {
+    content: "\f101";
+}
+.flaticon-salary:before {
+    content: "\f102";
+}
+.flaticon-liquidity:before {
+    content: "\f103";
+}
+.flaticon-shark:before {
+    content: "\f104";
+}
+.flaticon-communities:before {
+    content: "\f105";
+}
+.flaticon-reward:before {
+    content: "\f106";
+}
+.flaticon-padlock:before {
+    content: "\f107";
+}
+.flaticon-robot:before {
+    content: "\f108";
+}
+.flaticon-fire:before {
+    content: "\f109";
+}
+.flaticon-team:before {
+    content: "\f10a";
+}
